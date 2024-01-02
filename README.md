@@ -10,8 +10,9 @@ The idea behind this project was to accompany an industry client (say a user who
 The toolkit will help the clients to perform Machine Learning operations (without needing them to have any programming knowledge). Also, the users of this toolkit will be able to build and compare various models in less time. 
 
 ## Packages used
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-[](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+
 
 ## Tasks Performed
 
