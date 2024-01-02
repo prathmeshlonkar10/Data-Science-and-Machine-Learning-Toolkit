@@ -1,4 +1,3 @@
-# Data Science and Machine Learning Toolkit
 
 ![image](https://github.com/prathmeshlonkar10/Data-Science-and-Machine-Learning-Toolkit/assets/66990159/56ffda77-e0a7-4193-95ad-793038ba6c39)
 
